@@ -2,3 +2,5 @@
 Jedna se o repozitar v ramci vyuky GIT
 
 Ahoj, tohle je moje první úprava
+
+Ahoj, tohle je druhá úprava
